@@ -1,7 +1,7 @@
 # pygame-doom-fire
 implementação do algoritimo do doom em pygame.
 
-## nstall 
+## install 
 ```
 python3 -m venv .venv
 source .venv/bin/activate
